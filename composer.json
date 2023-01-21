@@ -1,0 +1,19 @@
+{
+    "name": "volodymyr-klymniuk/exception-handler-bundle",
+    "description": "MIT-advertising",
+    "type": "library",
+    "license": "MIT-advertising",
+    "autoload": {
+        "psr-4": {
+            "VolodymyrKlymniuk\\ExceptionHandlerBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Volodymyr Klymniuk",
+            "email": "Volodymyr.Klymniuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
