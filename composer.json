@@ -15,5 +15,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "prefer-stable": true,
+    "require": {
+        "symfony/dependency-injection": "^6.2",
+        "symfony/debug": "^4.4",
+        "symfony/http-kernel": "^6.2",
+        "symfony/form": "^6.2",
+        "symfony/validator": "^6.2"
+    }
 }
